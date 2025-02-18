@@ -17,11 +17,6 @@ import User4 from "../../public/assets/user-cover-4.png";
 import { Input } from "@/components/ui/input";
 import { useState } from "react";
 
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination } from "swiper/modules";
-import "swiper/css";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
